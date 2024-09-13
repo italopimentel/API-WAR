@@ -1,0 +1,12 @@
+Brasil,América do Sul
+Argentina/Uruguai,América do Sul
+México,América do Norte
+Califórnia,América do Norte
+Islândia,Europa
+Inglaterra,Europa
+Argélia/Nigéria,África
+Egito,África
+Oriente Médio,Ásia
+Aral,Ásia
+Bornéu,Oceania
+Sumatra,Oceania
